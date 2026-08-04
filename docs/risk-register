@@ -1,0 +1,12 @@
+# Risk Register
+
+| ID | Risk | Impact | Mitigation |
+|----|------|----------|------------|
+|R1|Changing AI regulations|High|Monitor standards|
+|R2|Limited literature|Medium|Use government publications|
+|R3|Framework comparison complexity|High|Develop standard criteria|
+|R4|Research bias|High|Evidence-based evaluation|
+|R5|Project delays|Medium|Follow Gantt schedule|
+|R6|Limited validation|Medium|Scenario-based testing|
+|R7|Poor data quality|Medium|Use peer-reviewed sources|
+|R8|Documentation issues|Low|Version control with GitHub|
